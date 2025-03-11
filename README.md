@@ -14,3 +14,17 @@ Used technologies:
 **ClusterIP: Exposes the service internally within the cluster (Redis and Postgres)**
 
 ![image](https://github.com/user-attachments/assets/27822b29-fffd-4452-a9bd-4eae5643421a)
+
+
+
+Summary:
+
+Pod: A group of one or more containers that are deployed together on the same host.
+
+ReplicaSet: Ensures a specified number of pod replicas are running at any given time.
+
+Deployment: A higher-level abstraction for managing ReplicaSets and ensuring the desired state of applications.
+
+Service Types:
+* NodePort: Exposes the service on a specific port on each node.
+* ClusterIP: Exposes the service internally within the cluster.
