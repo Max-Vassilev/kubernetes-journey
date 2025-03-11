@@ -1,5 +1,8 @@
 # kubernetes-journey
 
+Udemy course: https://www.udemy.com/course/learn-kubernetes/
+
+
 
 ## 6_Voting_App:
 
