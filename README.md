@@ -4,7 +4,7 @@ Udemy course: https://www.udemy.com/course/learn-kubernetes/
 
 Used technologies:
 - Docker
-- Minikube
+- Minikube: Used to set up a local Kubernetes cluster.
 - Kubectl
 
 ## 6_Voting_App:
