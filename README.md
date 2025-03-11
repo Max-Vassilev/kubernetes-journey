@@ -38,6 +38,6 @@ ReplicaSet: Ensures a specified number of pod replicas are running at any given 
 Deployment: A higher-level abstraction for managing ReplicaSets and ensuring the desired state of applications.
 
 Service Types:
-* NodePort: Exposes the service on a specific port on each node.
 * ClusterIP: Exposes the service internally within the cluster.
+* NodePort: Exposes the service on a specific port on each node.
 * LoadBalancer: Similar to NodePort, but uses a cloud load balancer for traffic distribution.
