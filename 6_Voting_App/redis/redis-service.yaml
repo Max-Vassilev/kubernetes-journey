@@ -6,6 +6,7 @@ metadata:
     name: redis-service
     app: demo-voting-app
 spec:
+  type: ClusterIP
   ports:
     - port: 6379
       targetPort: 6379
