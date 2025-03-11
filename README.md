@@ -6,7 +6,8 @@ Used technologies:
 - Docker: Used to run the Minikube container for local Kubernetes cluster.
 - Minikube: Used to create a local Kubernetes cluster.
 - Kubectl: Used to manage and interact with the Kubernetes cluster.
-- GCP
+- GCP: Used to deploy and manage Kubernetes clusters in the cloud.
+
 ## 6_Voting_App:
 
 **Voting app: http://104.154.129.18/**
