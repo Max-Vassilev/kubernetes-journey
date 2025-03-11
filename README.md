@@ -15,7 +15,7 @@ Used technologies:
 
 ![image](https://github.com/user-attachments/assets/27822b29-fffd-4452-a9bd-4eae5643421a)
 
-## Voting app deployed to GCP using Kubernetes cluster:
+## Voting app deployed to GCP using Kubernetes cluster (NodePorts were replaced with LoadBalancers):
 
 ![image](https://github.com/user-attachments/assets/a777187b-d9c4-4cab-8d0f-6cce87d6e146)
 
