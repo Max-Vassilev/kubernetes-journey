@@ -9,9 +9,9 @@ Used technologies:
 
 ## 6_Voting_App:
 
-### Voting app: http://104.154.129.18/
+**Voting app: http://104.154.129.18/**
 
-### Result app: http://35.224.182.195/
+**Result app: http://35.224.182.195/**
 
 **NodePort: Exposes the service on a specific port on each node (Voting App and Result App)**
 
