@@ -32,11 +32,11 @@ Used technologies:
 
 ## Summary:
 
-Pod: A group of one or more containers that are deployed together on the same host.
+Pod: One or more containers deployed together.
 
 ReplicaSet: Ensures a specified number of pod replicas are running at any given time.
 
-Deployment: A higher-level abstraction for managing ReplicaSets and ensuring the desired state of applications.
+Deployment: Manages ReplicaSets, supports rolling updates and rollbacks.
 
 Service Types:
 * ClusterIP: Exposes the service internally within the cluster.
