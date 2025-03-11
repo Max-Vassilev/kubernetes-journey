@@ -1,5 +1,8 @@
 # kubernetes-journey
 
+
+### 6_Voting_App
+
 **NodePort: Exposes the service on a specific port on each node (Voting App and Result App)**
 
 **ClusterIP: Exposes the service internally within the cluster (Redis and Postgres)**
