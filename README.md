@@ -21,6 +21,10 @@ Used technologies:
 
 ## Voting app deployed to GCP using Kubernetes cluster (NodePorts were replaced with LoadBalancers):
 
+**LoadBalancer: Exposes the Voting and Result apps externally, providing high availability and traffic distribution.**
+
+**ClusterIP: Exposes the service internally within the cluster (Redis and Postgres)**
+
 ![image](https://github.com/user-attachments/assets/a777187b-d9c4-4cab-8d0f-6cce87d6e146)
 
 ![image](https://github.com/user-attachments/assets/c27a8e27-9140-4f62-a086-5bf2760e7b5e)
@@ -36,3 +40,4 @@ Deployment: A higher-level abstraction for managing ReplicaSets and ensuring the
 Service Types:
 * NodePort: Exposes the service on a specific port on each node.
 * ClusterIP: Exposes the service internally within the cluster.
+* LoadBalancer: Similar to NodePort, but uses a cloud load balancer for traffic distribution.
