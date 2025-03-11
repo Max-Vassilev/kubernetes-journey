@@ -13,17 +13,15 @@ Used technologies:
 
 **Result app: http://35.224.182.195/**
 
-**NodePort: Exposes the service on a specific port on each node (Voting App and Result App)**
-
-**ClusterIP: Exposes the service internally within the cluster (Redis and Postgres)**
+- NodePort: Exposes the service on a specific port on each node (Voting App and Result App).
+- ClusterIP: Exposes the service internally within the cluster (Redis and Postgres).
 
 ![image](https://github.com/user-attachments/assets/27822b29-fffd-4452-a9bd-4eae5643421a)
 
 ## Voting app deployed to GCP using Kubernetes cluster (NodePorts were replaced with LoadBalancers):
 
-**LoadBalancer: Exposes the Voting and Result apps externally, providing high availability and traffic distribution.**
-
-**ClusterIP: Exposes the service internally within the cluster (Redis and Postgres)**
+- LoadBalancer: Exposes the Voting and Result apps externally, providing high availability and traffic distribution (Voting App and Result App).
+- ClusterIP: Exposes the service internally within the cluster (Redis and Postgres).
 
 ![image](https://github.com/user-attachments/assets/a777187b-d9c4-4cab-8d0f-6cce87d6e146)
 
