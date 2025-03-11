@@ -15,7 +15,11 @@ Used technologies:
 
 ![image](https://github.com/user-attachments/assets/27822b29-fffd-4452-a9bd-4eae5643421a)
 
+## Voting app deployed to GCP using Kubernetes cluster:
 
+![image](https://github.com/user-attachments/assets/a777187b-d9c4-4cab-8d0f-6cce87d6e146)
+
+![image](https://github.com/user-attachments/assets/c27a8e27-9140-4f62-a086-5bf2760e7b5e)
 
 ## Summary:
 
