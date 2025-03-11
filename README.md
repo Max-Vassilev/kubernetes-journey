@@ -2,7 +2,10 @@
 
 Udemy course: https://www.udemy.com/course/learn-kubernetes/
 
-
+Used technologies:
+- Docker
+- Minikube
+- Kubectl
 
 ## 6_Voting_App:
 
