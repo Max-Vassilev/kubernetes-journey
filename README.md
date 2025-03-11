@@ -27,6 +27,8 @@ Used technologies:
 
 ![image](https://github.com/user-attachments/assets/c27a8e27-9140-4f62-a086-5bf2760e7b5e)
 
+![image](https://github.com/user-attachments/assets/879c61ee-0f92-498e-bbb1-f244f99ed97e)
+
 ## Summary:
 
 Pod: A group of one or more containers that are deployed together on the same host.
